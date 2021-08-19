@@ -9,7 +9,6 @@ Currently I work with this technologies:
 - MongoDB
 - GraphQL
 - JQuery
-- 
 
 
 <!---

@@ -2,11 +2,13 @@ I am 20 years old; I have been programming on the web for 3 years. I am self-tau
 I am a very good partner and a future great leader. I like new challenges as they test me and help my desire to grow as a professional.
 Currently I work with this technologies: 
 
-- PHP/Laravel
-- Node JS
-- Dart/Flutter
+- PHP/Laravel/Lumen
+- Redis
 - MySQL
 - MongoDB
+- Firestore
+- Node JS
+- Dart/Flutter
 - GraphQL
 - JQuery
 

@@ -1,4 +1,4 @@
-I am 22 years old; I have been programming on the web for 3 years. I am self-taught, I learned thanks to the internet and several courses that I took and that I still do. I care a lot about keeping my code clean and scalable.
+I am 22 years old; I have been programming on the web for 5 years. I am self-taught, I learned thanks to the internet and several courses that I took and that I still do. I care a lot about keeping my code clean and scalable.
 I am a very good partner and a future great leader. I like new challenges as they test me and help my desire to grow as a professional.
 Currently I work with this technologies: 
 
